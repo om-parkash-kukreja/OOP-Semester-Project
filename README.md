@@ -34,8 +34,11 @@ The Smart Medical Store Management System is a Java-based application designed t
 2. Install MySQL and create a database  
 3. Import the provided `.sql` file into MySQL
 4. Open file in any text editor and compile on CMD 
-5. Make sure database connection settings (username/password) are correct in the code  
-6. Compile and run the main file:
+5. Make sure database connection settings (username/password) are correct in the code
+6. must Extract zip of of DB Connector and set class path of .jar file
+7. mentioned commands should be used to compile and run
+8. Compile -> javac -cp ".;mysql-connector-j-9.6.0.jar" smart.java
+9. Run -> java -cp ".;mysql-connector-j-9.6.0.jar" smart
 
 ## 🎥 Project Demo Video
 (https://youtu.be/VWBug6mILvI)
