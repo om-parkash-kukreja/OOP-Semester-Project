@@ -10,7 +10,7 @@ The Smart Medical Store Management System is a Java-based application designed t
 ## 👥 Group Members
 - OM Parkash — 023-25-0174 — Section C  
 - Abdul Hayee — 023-25-0147 — Section C  
-- Tofeeque Ahmed — 023-25-XXXX — Section C  
+- Tofeeque Ahmed — 023-25-0187 — Section C  
 
 ---
 
@@ -36,3 +36,11 @@ The Smart Medical Store Management System is a Java-based application designed t
 4. Open file in any text editor and compile on CMD 
 5. Make sure database connection settings (username/password) are correct in the code  
 6. Compile and run the main file:
+
+## 🎥 Project Demo Video
+(https://youtu.be/VWBug6mILvI)
+
+---
+
+## 🔗 GitHub Repository
+
